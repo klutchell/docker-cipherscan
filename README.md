@@ -1,5 +1,9 @@
 # Container for Cipherscan
 
+[![Circle CI](https://circleci.com/gh/Redsift/cipherscan.svg?style=svg)](https://circleci.com/gh/Redsift/cipherscan)
+
+[![Docker Repository on Quay.io](https://quay.io/repository/redsift/cipherscan/status "Docker Repository on Quay.io")](https://quay.io/repository/redsift/cipherscan)
+
 Built from [Cipherscan](https://github.com/jvehent/cipherscan) to dump data on TLS endpoints. Map your SSL terminator against [these recommendations](https://wiki.mozilla.org/Security/Server_Side_TLS).
 
 ## Running cipherscan
