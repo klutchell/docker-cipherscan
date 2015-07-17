@@ -13,3 +13,7 @@ Built from [Cipherscan](https://github.com/jvehent/cipherscan) to dump data on T
 ## Running analyze.py
 
 `docker run --entrypoint=/cipherscan/analyze.py quay.io/redsift/cipherscan -t jve.linuxwall.info`
+
+## Score
+
+Get your score and cert analysis at [https://www.ssllabs.com/ssltest/](https://www.ssllabs.com/ssltest/)
