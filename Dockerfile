@@ -21,4 +21,6 @@ COPY root /
 
 ENV TERM xterm-color
 
+RUN /cipherscan/cipherscan jve.linuxwall.info
+
 ENTRYPOINT [ "/cipherscan/cipherscan" ]
