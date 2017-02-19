@@ -9,6 +9,8 @@ Built from [cipherscan](https://github.com/mozilla/cipherscan) to dump data on T
 
 ## Build
 
+[![](https://images.microbadger.com/badges/commit/klutchell/cipherscan.svg)](https://microbadger.com/images/klutchell/cipherscan "Get your own commit badge on microbadger.com")
+
 ## Running cipherscan
 
 `$ docker run klutchell/cipherscan jve.linuxwall.info`
